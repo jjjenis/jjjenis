@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Denis;&center=true&size=30&color=000000&vCenter=true&width=600&height=45&pause=1000" />
 </p>
 
-- 📫 Telegram: [t.me/vete_me1](https://t.me/vete_me1)
+- 📫 Telegram: [t.me/vete_me](https://t.me/vete_me)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
